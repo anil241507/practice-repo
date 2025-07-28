@@ -4,3 +4,7 @@ this line is used for git conflicts
 and this is for practice
 this is a new line in git repository
 this can be done 
+story 123
+mucbfmewlknrsvu\
+nadhnvjbrsf
+hbczynfrknr
