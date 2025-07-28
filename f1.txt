@@ -2,3 +2,5 @@ this is newly created file
 this is a new line for this file
 this line is used for git conflicts
 and this is for practice
+adding line no4
+ading line no 5
