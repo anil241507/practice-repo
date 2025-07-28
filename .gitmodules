@@ -1,0 +1,3 @@
+[submodule "bitbucket-repo/bitbucket-repo/sample-repo"]
+	path = bitbucket-repo/bitbucket-repo/sample-repo
+	url = https://anil-ops-admin@bitbucket.org/anil-ops/sample-repo.git
