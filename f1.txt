@@ -4,19 +4,32 @@ this line is used for git conflicts
 and this is for practice
 this is a new line in git repository
 this can be done 
-<<<<<<< Updated upstream
+
 story 123
 mucbfmewlknrsvu\
 nadhnvjbrsf
 hbczynfrknr
-=======
+
 // change story 23
 echo ""
 chmod
 useradd
->>>>>>> Stashed changes
+
 git stash 
 git push
 git add
 git resolve
 git stash apply
+
+git autoer 
+njsasbvwu
+muaienkf ewr
+nnwelnghinwer\
+
+hwnemf3nnrlk
+mkasnvwlerm
+[n;
+74lomw,dvin
+'nm/wmnouveb
+miandkmfbnqwpom
+
