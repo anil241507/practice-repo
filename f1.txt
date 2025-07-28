@@ -15,3 +15,8 @@ echo ""
 chmod
 useradd
 >>>>>>> Stashed changes
+git stash 
+git push
+git add
+git resolve
+git stash apply
