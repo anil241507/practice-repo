@@ -4,7 +4,14 @@ this line is used for git conflicts
 and this is for practice
 this is a new line in git repository
 this can be done 
+<<<<<<< Updated upstream
 story 123
 mucbfmewlknrsvu\
 nadhnvjbrsf
 hbczynfrknr
+=======
+// change story 23
+echo ""
+chmod
+useradd
+>>>>>>> Stashed changes
